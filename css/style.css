@@ -268,7 +268,7 @@ a {
 }
 
 .button--decor::after {
-    content: "ЖМИ";
+    content: "PRESS";
     color: #c4c4c4;
     position: absolute;
     margin-left: 130px;
